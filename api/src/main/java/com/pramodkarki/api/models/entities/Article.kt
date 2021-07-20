@@ -1,4 +1,4 @@
-package com.pramodkarki.api.models
+package com.pramodkarki.api.models.entities
 
 
 import com.squareup.moshi.Json
